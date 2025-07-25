@@ -9,13 +9,13 @@
 
 ## Font Preview
 Regular (Base):  
-![Regular](preview/regular.png)  
+![Regular](preview/preview-regular.png)  
 Light (Base):  
-![Light](preview/light.png)  
+![Light](preview/preview-light.png)  
 Bold:  
-![Bold](preview/bold.png)  
+![Bold](preview/preview-bold.png)  
 Italic:  
-![Italic](preview/italic.png)  
+![Italic](preview/preview-italic.png)  
 
 ---
 
