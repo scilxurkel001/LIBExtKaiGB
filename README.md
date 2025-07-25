@@ -75,8 +75,3 @@ Welcome to submit via [Issues](https://github.com/scilxurkel001/LBIExtKaiMonoGB/
 > 🖋️ **Derivative Statement**  
 > This project respects and preserves all rights of the original developers (LXGW),  
 > Modifications are limited to style expansion and compliant renaming, without changing the original design philosophy.
-
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/lxgw/LxgwWenkaiGB.svg)](https://starchart.cc/lxgw/LxgwWenkaiGB)
