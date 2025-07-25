@@ -8,14 +8,14 @@
 ---
 
 ## Font Preview
-Regular: 
-![Regular](preview/regular.png) 
-Light: 
-![Light](preview/light.png) 
-Bold: 
-![Bold](preview/bold.png) 
-Italic: 
-![Italic](preview/italic.png) 
+Regular (Base):  
+![Regular](preview/regular.png)  
+Light (Base):  
+![Light](preview/light.png)  
+Bold:  
+![Bold](preview/bold.png)  
+Italic:  
+![Italic](preview/italic.png)  
 
 ---
 
