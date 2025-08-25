@@ -1,4 +1,4 @@
-# LBIExt Kai Mono GB
+# LIBExt Kai GB (Former LBIExt Kai Mono GB)
 
 > **⚠️ Important Notice**  
 > This repository is an ** unofficial derivative version ** of ** LXGW WenKai Mono GB **, adding bold/italic/light styles.  
@@ -21,7 +21,7 @@ Italic:
 
 ## Download and Install
 ### Direct Download of Compiled Version
-Go to the [Release Page](https://github.com/scilxurkel001/LBIExtKaiMonoGB/releases) to download
+Go to the [Release Page](https://github.com/scilxurkel001/LLIBExtKaiGB/releases) to download
 
 ### Manual Installation
 1. Download the `.ttf` file
@@ -64,7 +64,7 @@ No. This font uses an independent namespace (`LBIExt Kai Mono GB`), and can coex
 ---
 
 ## Contribution and Feedback
-Welcome to submit via [Issues](https://github.com/scilxurkel001/LBIExtKaiMonoGB/issues):
+Welcome to submit via [Issues](https://github.com/scilxurkel001/LIBExtKaiGB/issues):
 - Glyph issues (missing/modified characters)
 - Style optimization suggestions
 - Technical compatibility issues
