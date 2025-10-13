@@ -21,7 +21,7 @@ Italic:
 
 ## Download and Install
 ### Direct Download of Compiled Version
-Go to the [Release Page](https://github.com/scilxurkel001/LLIBExtKaiGB/releases) to download
+Go to the [Release Page](https://github.com/scilxurkel001/LIBExtKaiGB/releases) to download
 
 ### Manual Installation
 1. Download the `.ttf` file
