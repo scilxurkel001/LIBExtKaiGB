@@ -59,7 +59,7 @@ Copyright 2020 The Klee Project Authors
 According to the original font license terms, derivative works **are prohibited from using the "霞鹜 / LXGW" name**. "Kai" refers to the general category, which complies with the regulations.
 
 ### Q: Will it conflict with the official version?
-No. This font uses an independent namespace (`LBIExt Kai Mono GB`), and can coexist with the official font.
+No. This font uses an independent namespace (`LIBExt Kai GB`), and can coexist with the official font.
 
 ---
 
